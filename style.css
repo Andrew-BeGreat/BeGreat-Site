@@ -1,0 +1,28 @@
+.nav-logo {
+    border-radius: 50%;
+    height: 100px;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.heading-bg {
+    background-color: #E4DCCF;
+}
+
+.card-one {
+    background-color: #002B5B;
+}
+
+.card-one > h2 {
+    color: white;
+}
+
+.card-one > p {
+    color: white;
+}
+
+.card-two {
+    background-color: #F9F5EB;
+}
