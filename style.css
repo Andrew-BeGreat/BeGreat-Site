@@ -1,55 +1,7 @@
-.nav-logo {
-    border-radius: 50%;
-    height: 90px;
-}
-
-.be-great {
+.heading-main {
     color: white;
 }
 
-h1 {
+.text-heading {
     font-family: 'Libre Baskerville', serif;
 }
-
-.heading-bg {
-    background-color: #141E46;
-}
-
-.section-bg {
-    background-color: #FFF5E0;
-}
-
-.card-one {
-    background-color: #141E46;
-}
-
-.card-one > h2 {
-    color: white;
-}
-
-.card-one > p {
-    color: white;
-}
-
-.card-two {
-    background-color: #FF6969;
-}
-
-.navy-seal {
-    color: #141E46;
-}
-
-.jocko {
-    object-fit: cover;
-    height: 400px;
-}
-
-.feature-heading {
-    font-family: 'Alfa Slab One', serif;
-    font-family: 'Libre Baskerville', serif;
-    font-family: 'Noto Color Emoji', sans-serif;
-    font-family: 'Noto Serif', serif;
-    font-family: 'Quando', serif;
-    background-color: #C70039;
-}
-
