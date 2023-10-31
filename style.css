@@ -5,3 +5,23 @@
 .text-heading {
     font-family: 'Libre Baskerville', serif;
 }
+
+.nav-link {
+    margin: 10px;
+}
+
+.second-heading {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.card-one {
+    background-color: #141E46;
+}
+
+.card-two {
+    background-color: #FF6969;
+}
+
+.cardone-text {
+    color: white;
+}
