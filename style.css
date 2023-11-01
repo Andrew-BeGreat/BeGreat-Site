@@ -25,3 +25,10 @@
 .cardone-text {
     color: white;
 }
+
+@media (max-width: 680px){
+    iframe {
+        width: 350px; 
+        align-items: center;
+    }
+}
